@@ -1,0 +1,38 @@
+TESTING LINKED_LIST
+
+container of size: 4:
+3 1 6 9 
+3
+1
+container of size: 2:
+6 9 
+container of size: 5:
+13 16 11 6 9 
+13
+16
+9
+6
+container of size: 1:
+11 
+11
+None
+container of size: 0:
+
+
+TESTING QUEUE
+
+the data structure is of size: 3
+2
+4
+7
+None
+the data structure is of size: 0
+
+TESTING STACK
+
+the data structure is of size: 3
+7
+4
+2
+None
+the data structure is of size: 0

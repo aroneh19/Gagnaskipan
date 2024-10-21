@@ -1,0 +1,2859 @@
+
+    new int
+current list: 
+
+    insert 12 1
+Index out of bounds!
+
+    prepend 79
+current list: 79
+
+    insert 78 5
+Index out of bounds!
+
+    append 47
+current list: 79, 47
+
+    set_at 46 -1
+Index out of bounds!
+
+    get_at 1
+current list: 79, 47
+value: 47
+
+    get_at 4
+current list: 79, 47
+Index out of bounds!
+
+    append 55
+current list: 79, 47, 55
+
+    remove_at 0
+current list: 47, 55
+
+    append 83
+current list: 47, 55, 83
+
+    remove_at 8
+Index out of bounds!
+
+    get_last
+current list: 47, 55, 83
+value: 83
+
+    set_at 68 6
+Index out of bounds!
+
+    get_first
+current list: 47, 55, 83
+value: 47
+
+    remove_at 4
+Index out of bounds!
+
+    get_last
+current list: 47, 55, 83
+value: 83
+
+    remove_at 7
+Index out of bounds!
+
+    get_at -2
+current list: 47, 55, 83
+Index out of bounds!
+
+    remove_at 2
+current list: 47, 55
+
+    get_last
+current list: 47, 55
+value: 55
+
+    insert 91 -1
+Index out of bounds!
+
+    set_at 99 0
+current list: 99, 55
+
+    set_at 27 3
+Index out of bounds!
+
+    get_at 3
+current list: 99, 55
+Index out of bounds!
+
+    remove_at -1
+Index out of bounds!
+
+    get_at 0
+current list: 99, 55
+value: 99
+
+    append 35
+current list: 99, 55, 35
+
+    insert 33 -1
+Index out of bounds!
+
+    append 23
+current list: 99, 55, 35, 23
+
+    set_at 90 4
+Index out of bounds!
+
+    set_at 66 -1
+Index out of bounds!
+
+    get_first
+current list: 99, 55, 35, 23
+value: 99
+
+    get_first
+current list: 99, 55, 35, 23
+value: 99
+
+    get_last
+current list: 99, 55, 35, 23
+value: 23
+
+    get_last
+current list: 99, 55, 35, 23
+value: 23
+
+    get_last
+current list: 99, 55, 35, 23
+value: 23
+
+    prepend 55
+current list: 55, 99, 55, 35, 23
+
+    get_first
+current list: 55, 99, 55, 35, 23
+value: 55
+
+    get_first
+current list: 55, 99, 55, 35, 23
+value: 55
+
+    prepend 23
+current list: 23, 55, 99, 55, 35, 23
+
+    remove_at 3
+current list: 23, 55, 99, 35, 23
+
+    get_last
+current list: 23, 55, 99, 35, 23
+value: 23
+
+    set_at 67 8
+Index out of bounds!
+
+    remove_at 9
+Index out of bounds!
+
+    append 51
+current list: 23, 55, 99, 35, 23, 51
+
+    append 98
+current list: 23, 55, 99, 35, 23, 51, 98
+
+    get_last
+current list: 23, 55, 99, 35, 23, 51, 98
+value: 98
+
+    append 39
+current list: 23, 55, 99, 35, 23, 51, 98, 39
+
+    get_first
+current list: 23, 55, 99, 35, 23, 51, 98, 39
+value: 23
+
+    append 99
+current list: 23, 55, 99, 35, 23, 51, 98, 39, 99
+
+    get_first
+current list: 23, 55, 99, 35, 23, 51, 98, 39, 99
+value: 23
+
+    insert 59 12
+Index out of bounds!
+
+    insert 72 4
+current list: 23, 55, 99, 35, 72, 23, 51, 98, 39, 99
+
+    append 57
+current list: 23, 55, 99, 35, 72, 23, 51, 98, 39, 99, 57
+
+    get_last
+current list: 23, 55, 99, 35, 72, 23, 51, 98, 39, 99, 57
+value: 57
+
+    append 34
+current list: 23, 55, 99, 35, 72, 23, 51, 98, 39, 99, 57, 34
+
+    prepend 65
+current list: 65, 23, 55, 99, 35, 72, 23, 51, 98, 39, 99, 57, 34
+
+    remove_at 10
+current list: 65, 23, 55, 99, 35, 72, 23, 51, 98, 39, 57, 34
+
+    append 28
+current list: 65, 23, 55, 99, 35, 72, 23, 51, 98, 39, 57, 34, 28
+
+    get_first
+current list: 65, 23, 55, 99, 35, 72, 23, 51, 98, 39, 57, 34, 28
+value: 65
+
+    insert 37 10
+current list: 65, 23, 55, 99, 35, 72, 23, 51, 98, 39, 37, 57, 34, 28
+
+    prepend 20
+current list: 20, 65, 23, 55, 99, 35, 72, 23, 51, 98, 39, 37, 57, 34, 28
+
+    remove_at 1
+current list: 20, 23, 55, 99, 35, 72, 23, 51, 98, 39, 37, 57, 34, 28
+
+    insert 46 14
+current list: 20, 23, 55, 99, 35, 72, 23, 51, 98, 39, 37, 57, 34, 28, 46
+
+    clear
+current list: 
+
+    prepend 89
+current list: 89
+
+    insert 53 -2
+Index out of bounds!
+
+    get_at 0
+current list: 89
+value: 89
+
+    prepend 35
+current list: 35, 89
+
+    get_at -1
+current list: 35, 89
+Index out of bounds!
+
+    append 13
+current list: 35, 89, 13
+
+    get_first
+current list: 35, 89, 13
+value: 35
+
+    get_last
+current list: 35, 89, 13
+value: 13
+
+    set_at 77 4
+Index out of bounds!
+
+    prepend 10
+current list: 10, 35, 89, 13
+
+    get_last
+current list: 10, 35, 89, 13
+value: 13
+
+    prepend 83
+current list: 83, 10, 35, 89, 13
+
+    get_last
+current list: 83, 10, 35, 89, 13
+value: 13
+
+    remove_at 6
+Index out of bounds!
+
+    insert 89 2
+current list: 83, 10, 89, 35, 89, 13
+
+    prepend 30
+current list: 30, 83, 10, 89, 35, 89, 13
+
+    get_last
+current list: 30, 83, 10, 89, 35, 89, 13
+value: 13
+
+    insert 73 4
+current list: 30, 83, 10, 89, 73, 35, 89, 13
+
+    get_last
+current list: 30, 83, 10, 89, 73, 35, 89, 13
+value: 13
+
+    remove_at 10
+Index out of bounds!
+
+    prepend 86
+current list: 86, 30, 83, 10, 89, 73, 35, 89, 13
+
+    remove_at 2
+current list: 86, 30, 10, 89, 73, 35, 89, 13
+
+    get_last
+current list: 86, 30, 10, 89, 73, 35, 89, 13
+value: 13
+
+    get_at 6
+current list: 86, 30, 10, 89, 73, 35, 89, 13
+value: 89
+
+    set_at 16 9
+Index out of bounds!
+
+    remove_at 1
+current list: 86, 10, 89, 73, 35, 89, 13
+
+    append 33
+current list: 86, 10, 89, 73, 35, 89, 13, 33
+
+    get_at 1
+current list: 86, 10, 89, 73, 35, 89, 13, 33
+value: 10
+
+    set_at 33 9
+Index out of bounds!
+
+    get_at 2
+current list: 86, 10, 89, 73, 35, 89, 13, 33
+value: 89
+
+    insert 69 -2
+Index out of bounds!
+
+    get_at 3
+current list: 86, 10, 89, 73, 35, 89, 13, 33
+value: 73
+
+    insert 29 2
+current list: 86, 10, 29, 89, 73, 35, 89, 13, 33
+
+    remove_at 8
+current list: 86, 10, 29, 89, 73, 35, 89, 13
+
+    get_at 7
+current list: 86, 10, 29, 89, 73, 35, 89, 13
+value: 13
+
+    insert 64 8
+current list: 86, 10, 29, 89, 73, 35, 89, 13, 64
+
+    set_at 86 11
+Index out of bounds!
+
+    remove_at 11
+Index out of bounds!
+
+    prepend 38
+current list: 38, 86, 10, 29, 89, 73, 35, 89, 13, 64
+
+    get_at 10
+current list: 38, 86, 10, 29, 89, 73, 35, 89, 13, 64
+Index out of bounds!
+
+    remove_at 7
+current list: 38, 86, 10, 29, 89, 73, 35, 13, 64
+
+    prepend 76
+current list: 76, 38, 86, 10, 29, 89, 73, 35, 13, 64
+
+    append 53
+current list: 76, 38, 86, 10, 29, 89, 73, 35, 13, 64, 53
+
+    remove_at -1
+Index out of bounds!
+
+    append 47
+current list: 76, 38, 86, 10, 29, 89, 73, 35, 13, 64, 53, 47
+
+    prepend 29
+current list: 29, 76, 38, 86, 10, 29, 89, 73, 35, 13, 64, 53, 47
+
+    get_at 6
+current list: 29, 76, 38, 86, 10, 29, 89, 73, 35, 13, 64, 53, 47
+value: 89
+
+    get_first
+current list: 29, 76, 38, 86, 10, 29, 89, 73, 35, 13, 64, 53, 47
+value: 29
+
+    prepend 52
+current list: 52, 29, 76, 38, 86, 10, 29, 89, 73, 35, 13, 64, 53, 47
+
+    set_at 47 11
+current list: 52, 29, 76, 38, 86, 10, 29, 89, 73, 35, 13, 47, 53, 47
+
+    remove_at 3
+current list: 52, 29, 76, 86, 10, 29, 89, 73, 35, 13, 47, 53, 47
+
+    append 79
+current list: 52, 29, 76, 86, 10, 29, 89, 73, 35, 13, 47, 53, 47, 79
+
+    remove_at 11
+current list: 52, 29, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79
+
+    get_at 3
+current list: 52, 29, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79
+value: 86
+
+    prepend 20
+current list: 20, 52, 29, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79
+
+    append 38
+current list: 20, 52, 29, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79, 38
+
+    set_at 52 1
+current list: 20, 52, 29, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79, 38
+
+    set_at 88 2
+current list: 20, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79, 38
+
+    set_at 79 0
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79, 38
+
+    get_first
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79, 38
+value: 79
+
+    get_at 8
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79, 38
+value: 73
+
+    get_first
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 47, 79, 38
+value: 79
+
+    set_at 85 12
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 85, 79, 38
+
+    remove_at -2
+Index out of bounds!
+
+    get_last
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 85, 79, 38
+value: 38
+
+    get_first
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 85, 79, 38
+value: 79
+
+    get_first
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 85, 79, 38
+value: 79
+
+    remove_at -2
+Index out of bounds!
+
+    get_first
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 85, 79, 38
+value: 79
+
+    remove_at 12
+current list: 79, 52, 88, 76, 86, 10, 29, 89, 73, 35, 13, 47, 79, 38
+
+    remove_at 5
+current list: 79, 52, 88, 76, 86, 29, 89, 73, 35, 13, 47, 79, 38
+
+    remove_at 13
+Index out of bounds!
+
+    get_last
+current list: 79, 52, 88, 76, 86, 29, 89, 73, 35, 13, 47, 79, 38
+value: 38
+
+    set_at 92 10
+current list: 79, 52, 88, 76, 86, 29, 89, 73, 35, 13, 92, 79, 38
+
+    get_at 9
+current list: 79, 52, 88, 76, 86, 29, 89, 73, 35, 13, 92, 79, 38
+value: 13
+
+    set_at 92 11
+current list: 79, 52, 88, 76, 86, 29, 89, 73, 35, 13, 92, 92, 38
+
+    prepend 42
+current list: 42, 79, 52, 88, 76, 86, 29, 89, 73, 35, 13, 92, 92, 38
+
+    get_last
+current list: 42, 79, 52, 88, 76, 86, 29, 89, 73, 35, 13, 92, 92, 38
+value: 38
+
+    set_at 15 4
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 92, 38
+
+    get_last
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 92, 38
+value: 38
+
+    set_at 57 12
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38
+
+    append 36
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 36
+
+    insert 32 14
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+
+    get_first
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+value: 42
+
+    get_first
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+value: 42
+
+    remove_at -1
+Index out of bounds!
+
+    get_last
+current list: 42, 79, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+value: 36
+
+    remove_at 1
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+
+    get_last
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+value: 36
+
+    get_at 2
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+value: 88
+
+    get_last
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 38, 32, 36
+value: 36
+
+    insert 39 12
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+
+    get_at 4
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+value: 86
+
+    get_last
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+value: 36
+
+    get_at 0
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+value: 42
+
+    get_first
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+value: 42
+
+    get_last
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+value: 36
+
+    get_first
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+value: 42
+
+    get_first
+current list: 42, 52, 88, 15, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+value: 42
+
+    insert 82 4
+current list: 42, 52, 88, 15, 82, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36
+
+    append 69
+current list: 42, 52, 88, 15, 82, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36, 69
+
+    get_last
+current list: 42, 52, 88, 15, 82, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36, 69
+value: 69
+
+    prepend 16
+current list: 16, 42, 52, 88, 15, 82, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36, 69
+
+    get_last
+current list: 16, 42, 52, 88, 15, 82, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36, 69
+value: 69
+
+    prepend 40
+current list: 40, 16, 42, 52, 88, 15, 82, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36, 69
+
+    remove_at 4
+current list: 40, 16, 42, 52, 15, 82, 86, 29, 89, 73, 35, 13, 92, 57, 39, 38, 32, 36, 69
+
+    remove_at 13
+current list: 40, 16, 42, 52, 15, 82, 86, 29, 89, 73, 35, 13, 92, 39, 38, 32, 36, 69
+
+    insert 57 7
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 89, 73, 35, 13, 92, 39, 38, 32, 36, 69
+
+    append 44
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 89, 73, 35, 13, 92, 39, 38, 32, 36, 69, 44
+
+    set_at 94 11
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 89, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44
+
+    set_at 16 9
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44
+
+    get_first
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44
+value: 40
+
+    get_first
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44
+value: 40
+
+    get_first
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44
+value: 40
+
+    append 91
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91
+
+    get_at 3
+current list: 40, 16, 42, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91
+value: 52
+
+    prepend 64
+current list: 64, 40, 16, 42, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91
+
+    insert 61 4
+current list: 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91
+
+    prepend 39
+current list: 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91
+
+    get_at 22
+current list: 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91
+value: 44
+
+    get_at -2
+current list: 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91
+Index out of bounds!
+
+    append 81
+current list: 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91, 81
+
+    get_last
+current list: 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91, 81
+value: 81
+
+    get_last
+current list: 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91, 81
+value: 81
+
+    prepend 17
+current list: 17, 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91, 81
+
+    get_first
+current list: 17, 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91, 81
+value: 17
+
+    append 92
+current list: 17, 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91, 81, 92
+
+    get_at 4
+current list: 17, 39, 64, 40, 16, 42, 61, 52, 15, 82, 86, 57, 29, 16, 73, 94, 13, 92, 39, 38, 32, 36, 69, 44, 91, 81, 92
+value: 16
+
+    clear
+current list: 
+
+    get_at 1
+current list: 
+Index out of bounds!
+
+    insert 77 2
+Index out of bounds!
+
+    get_last
+current list: 
+The list is empty!
+
+    get_first
+current list: 
+The list is empty!
+
+    get_at 0
+current list: 
+Index out of bounds!
+
+    get_at 0
+current list: 
+Index out of bounds!
+
+    get_at -1
+current list: 
+Index out of bounds!
+
+    get_first
+current list: 
+The list is empty!
+
+    get_first
+current list: 
+The list is empty!
+
+    remove_at 0
+Index out of bounds!
+
+    get_first
+current list: 
+The list is empty!
+
+    get_at 4
+current list: 
+Index out of bounds!
+
+    prepend 36
+current list: 36
+
+    prepend 88
+current list: 88, 36
+
+    get_last
+current list: 88, 36
+value: 36
+
+    insert 85 6
+Index out of bounds!
+
+    insert 37 5
+Index out of bounds!
+
+    set_at 80 -2
+Index out of bounds!
+
+    set_at 82 0
+current list: 82, 36
+
+    remove_at 5
+Index out of bounds!
+
+    prepend 55
+current list: 55, 82, 36
+
+    insert 24 5
+Index out of bounds!
+
+    get_first
+current list: 55, 82, 36
+value: 55
+
+    prepend 34
+current list: 34, 55, 82, 36
+
+    get_at 7
+current list: 34, 55, 82, 36
+Index out of bounds!
+
+    insert 60 7
+Index out of bounds!
+
+    insert 21 3
+current list: 34, 55, 82, 21, 36
+
+    get_first
+current list: 34, 55, 82, 21, 36
+value: 34
+
+    remove_at 10
+Index out of bounds!
+
+    set_at 28 10
+Index out of bounds!
+
+    append 97
+current list: 34, 55, 82, 21, 36, 97
+
+    append 67
+current list: 34, 55, 82, 21, 36, 97, 67
+
+    set_at 91 11
+Index out of bounds!
+
+    prepend 45
+current list: 45, 34, 55, 82, 21, 36, 97, 67
+
+    remove_at 6
+current list: 45, 34, 55, 82, 21, 36, 67
+
+    prepend 48
+current list: 48, 45, 34, 55, 82, 21, 36, 67
+
+    append 66
+current list: 48, 45, 34, 55, 82, 21, 36, 67, 66
+
+    prepend 35
+current list: 35, 48, 45, 34, 55, 82, 21, 36, 67, 66
+
+    set_at 19 -1
+Index out of bounds!
+
+    append 78
+current list: 35, 48, 45, 34, 55, 82, 21, 36, 67, 66, 78
+
+    get_at 11
+current list: 35, 48, 45, 34, 55, 82, 21, 36, 67, 66, 78
+Index out of bounds!
+
+    get_last
+current list: 35, 48, 45, 34, 55, 82, 21, 36, 67, 66, 78
+value: 78
+
+    get_at 16
+current list: 35, 48, 45, 34, 55, 82, 21, 36, 67, 66, 78
+Index out of bounds!
+
+    prepend 23
+current list: 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 66, 78
+
+    prepend 81
+current list: 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 66, 78
+
+    prepend 72
+current list: 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 66, 78
+
+    set_at 59 12
+current list: 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 59, 78
+
+    insert 53 14
+current list: 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 59, 78, 53
+
+    append 77
+current list: 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 59, 78, 53, 77
+
+    prepend 17
+current list: 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 59, 78, 53, 77
+
+    get_last
+current list: 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 59, 78, 53, 77
+value: 77
+
+    insert 56 0
+current list: 56, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 36, 67, 59, 78, 53, 77
+
+    remove_at 12
+current list: 56, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 67, 59, 78, 53, 77
+
+    append 89
+current list: 56, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 67, 59, 78, 53, 77, 89
+
+    set_at 51 -2
+Index out of bounds!
+
+    get_last
+current list: 56, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 67, 59, 78, 53, 77, 89
+value: 89
+
+    get_at 21
+current list: 56, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 67, 59, 78, 53, 77, 89
+Index out of bounds!
+
+    set_at 19 12
+current list: 56, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 19, 59, 78, 53, 77, 89
+
+    get_last
+current list: 56, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 19, 59, 78, 53, 77, 89
+value: 89
+
+    insert 53 1
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 21, 19, 59, 78, 53, 77, 89
+
+    remove_at 12
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 19, 59, 78, 53, 77, 89
+
+    get_at 16
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 19, 59, 78, 53, 77, 89
+value: 77
+
+    get_at 4
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 19, 59, 78, 53, 77, 89
+value: 81
+
+    get_first
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 19, 59, 78, 53, 77, 89
+value: 56
+
+    get_first
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 19, 59, 78, 53, 77, 89
+value: 56
+
+    append 49
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 55, 82, 19, 59, 78, 53, 77, 89, 49
+
+    remove_at 10
+current list: 56, 53, 17, 72, 81, 23, 35, 48, 45, 34, 82, 19, 59, 78, 53, 77, 89, 49
+
+    set_at 77 5
+current list: 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 59, 78, 53, 77, 89, 49
+
+    get_last
+current list: 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 59, 78, 53, 77, 89, 49
+value: 49
+
+    set_at 42 14
+current list: 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 59, 78, 42, 77, 89, 49
+
+    prepend 31
+current list: 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 59, 78, 42, 77, 89, 49
+
+    set_at 44 13
+current list: 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 49
+
+    get_last
+current list: 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 49
+value: 49
+
+    set_at 30 20
+Index out of bounds!
+
+    prepend 51
+current list: 51, 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 49
+
+    insert 24 19
+current list: 51, 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 24, 49
+
+    prepend 92
+current list: 92, 51, 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 24, 49
+
+    get_first
+current list: 92, 51, 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 24, 49
+value: 92
+
+    get_at 23
+current list: 92, 51, 31, 56, 53, 17, 72, 81, 77, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 24, 49
+Index out of bounds!
+
+    insert 94 9
+current list: 92, 51, 31, 56, 53, 17, 72, 81, 77, 94, 35, 48, 45, 34, 82, 19, 44, 78, 42, 77, 89, 24, 49
+
+    clear
+current list: 
+
+    get_at 4
+current list: 
+Index out of bounds!
+
+    get_at 2
+current list: 
+Index out of bounds!
+
+    get_last
+current list: 
+The list is empty!
+
+    prepend 74
+current list: 74
+
+    set_at 61 -2
+Index out of bounds!
+
+    get_last
+current list: 74
+value: 74
+
+    get_at 0
+current list: 74
+value: 74
+
+    insert 75 0
+current list: 75, 74
+
+    insert 47 2
+current list: 75, 74, 47
+
+    get_at 5
+current list: 75, 74, 47
+Index out of bounds!
+
+    set_at 13 -2
+Index out of bounds!
+
+    prepend 99
+current list: 99, 75, 74, 47
+
+    append 14
+current list: 99, 75, 74, 47, 14
+
+    get_at 4
+current list: 99, 75, 74, 47, 14
+value: 14
+
+    set_at 62 -1
+Index out of bounds!
+
+    set_at 75 -2
+Index out of bounds!
+
+    get_first
+current list: 99, 75, 74, 47, 14
+value: 99
+
+    set_at 86 2
+current list: 99, 75, 86, 47, 14
+
+    get_at 7
+current list: 99, 75, 86, 47, 14
+Index out of bounds!
+
+    append 67
+current list: 99, 75, 86, 47, 14, 67
+
+    append 87
+current list: 99, 75, 86, 47, 14, 67, 87
+
+    append 29
+current list: 99, 75, 86, 47, 14, 67, 87, 29
+
+    remove_at 11
+Index out of bounds!
+
+    remove_at 7
+current list: 99, 75, 86, 47, 14, 67, 87
+
+    prepend 34
+current list: 34, 99, 75, 86, 47, 14, 67, 87
+
+    get_last
+current list: 34, 99, 75, 86, 47, 14, 67, 87
+value: 87
+
+    get_at 11
+current list: 34, 99, 75, 86, 47, 14, 67, 87
+Index out of bounds!
+
+    insert 67 2
+current list: 34, 99, 67, 75, 86, 47, 14, 67, 87
+
+    append 96
+current list: 34, 99, 67, 75, 86, 47, 14, 67, 87, 96
+
+    set_at 95 6
+current list: 34, 99, 67, 75, 86, 47, 95, 67, 87, 96
+
+    prepend 33
+current list: 33, 34, 99, 67, 75, 86, 47, 95, 67, 87, 96
+
+    prepend 50
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 95, 67, 87, 96
+
+    set_at 11 8
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 11, 67, 87, 96
+
+    append 60
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 11, 67, 87, 96, 60
+
+    get_last
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 11, 67, 87, 96, 60
+value: 60
+
+    insert 52 8
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 87, 96, 60
+
+    append 46
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 87, 96, 60, 46
+
+    get_last
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 87, 96, 60, 46
+value: 46
+
+    get_last
+current list: 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 87, 96, 60, 46
+value: 46
+
+    prepend 35
+current list: 35, 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 87, 96, 60, 46
+
+    get_at 16
+current list: 35, 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 87, 96, 60, 46
+Index out of bounds!
+
+    remove_at 16
+Index out of bounds!
+
+    get_last
+current list: 35, 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 87, 96, 60, 46
+value: 46
+
+    remove_at 12
+current list: 35, 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 96, 60, 46
+
+    insert 27 17
+Index out of bounds!
+
+    append 35
+current list: 35, 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 96, 60, 46, 35
+
+    prepend 55
+current list: 55, 35, 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 96, 60, 46, 35
+
+    prepend 37
+current list: 37, 55, 35, 50, 33, 34, 99, 67, 75, 86, 47, 52, 11, 67, 96, 60, 46, 35
+
+    remove_at 10
+current list: 37, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35
+
+    append 55
+current list: 37, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55
+
+    remove_at 18
+Index out of bounds!
+
+    get_first
+current list: 37, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55
+value: 37
+
+    get_first
+current list: 37, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55
+value: 37
+
+    get_at 7
+current list: 37, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55
+value: 67
+
+    prepend 31
+current list: 31, 37, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55
+
+    set_at 98 1
+current list: 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55
+
+    append 22
+current list: 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22
+
+    remove_at 20
+Index out of bounds!
+
+    insert 15 20
+current list: 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+
+    get_first
+current list: 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+value: 31
+
+    insert 67 0
+current list: 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+
+    get_first
+current list: 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+value: 67
+
+    get_at 10
+current list: 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+value: 75
+
+    get_first
+current list: 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+value: 67
+
+    prepend 58
+current list: 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+
+    prepend 65
+current list: 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+
+    get_last
+current list: 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15
+value: 15
+
+    append 69
+current list: 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15, 69
+
+    get_at 21
+current list: 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 22, 15, 69
+value: 55
+
+    set_at 28 22
+current list: 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 28, 15, 69
+
+    append 86
+current list: 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+
+    set_at 61 27
+Index out of bounds!
+
+    set_at 32 -1
+Index out of bounds!
+
+    get_at 14
+current list: 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+value: 52
+
+    prepend 14
+current list: 14, 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+
+    get_at 25
+current list: 14, 65, 58, 67, 31, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+value: 69
+
+    insert 92 5
+current list: 14, 65, 58, 67, 31, 92, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 11, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+
+    set_at 35 17
+current list: 14, 65, 58, 67, 31, 92, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 35, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+
+    get_first
+current list: 14, 65, 58, 67, 31, 92, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 35, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+value: 14
+
+    get_last
+current list: 14, 65, 58, 67, 31, 92, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 35, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+value: 86
+
+    insert 57 0
+current list: 57, 14, 65, 58, 67, 31, 92, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 35, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+
+    get_first
+current list: 57, 14, 65, 58, 67, 31, 92, 98, 55, 35, 50, 33, 34, 99, 67, 75, 86, 52, 35, 67, 96, 60, 46, 35, 55, 28, 15, 69, 86
+value: 57
+
+    clear
+current list: 
+
+    get_first
+current list: 
+The list is empty!
+
+    remove_at -1
+Index out of bounds!
+
+    get_at 2
+current list: 
+Index out of bounds!
+
+    remove_at 2
+Index out of bounds!
+
+    get_first
+current list: 
+The list is empty!
+
+    remove_at 2
+Index out of bounds!
+
+    remove_at -2
+Index out of bounds!
+
+    set_at 43 -1
+Index out of bounds!
+
+    set_at 93 -1
+Index out of bounds!
+
+    prepend 61
+current list: 61
+
+    set_at 57 -2
+Index out of bounds!
+
+    prepend 64
+current list: 64, 61
+
+    append 41
+current list: 64, 61, 41
+
+    remove_at -1
+Index out of bounds!
+
+    append 14
+current list: 64, 61, 41, 14
+
+    append 21
+current list: 64, 61, 41, 14, 21
+
+    get_at -2
+current list: 64, 61, 41, 14, 21
+Index out of bounds!
+
+    append 40
+current list: 64, 61, 41, 14, 21, 40
+
+    get_at 3
+current list: 64, 61, 41, 14, 21, 40
+value: 14
+
+    get_at 0
+current list: 64, 61, 41, 14, 21, 40
+value: 64
+
+    get_first
+current list: 64, 61, 41, 14, 21, 40
+value: 64
+
+    insert 17 3
+current list: 64, 61, 41, 17, 14, 21, 40
+
+    get_last
+current list: 64, 61, 41, 17, 14, 21, 40
+value: 40
+
+    append 76
+current list: 64, 61, 41, 17, 14, 21, 40, 76
+
+    remove_at 0
+current list: 61, 41, 17, 14, 21, 40, 76
+
+    append 39
+current list: 61, 41, 17, 14, 21, 40, 76, 39
+
+    prepend 60
+current list: 60, 61, 41, 17, 14, 21, 40, 76, 39
+
+    prepend 58
+current list: 58, 60, 61, 41, 17, 14, 21, 40, 76, 39
+
+    insert 67 1
+current list: 58, 67, 60, 61, 41, 17, 14, 21, 40, 76, 39
+
+    insert 73 7
+current list: 58, 67, 60, 61, 41, 17, 14, 73, 21, 40, 76, 39
+
+    append 70
+current list: 58, 67, 60, 61, 41, 17, 14, 73, 21, 40, 76, 39, 70
+
+    prepend 65
+current list: 65, 58, 67, 60, 61, 41, 17, 14, 73, 21, 40, 76, 39, 70
+
+    set_at 22 1
+current list: 65, 22, 67, 60, 61, 41, 17, 14, 73, 21, 40, 76, 39, 70
+
+    insert 13 3
+current list: 65, 22, 67, 13, 60, 61, 41, 17, 14, 73, 21, 40, 76, 39, 70
+
+    insert 89 9
+current list: 65, 22, 67, 13, 60, 61, 41, 17, 14, 89, 73, 21, 40, 76, 39, 70
+
+    set_at 77 11
+current list: 65, 22, 67, 13, 60, 61, 41, 17, 14, 89, 73, 77, 40, 76, 39, 70
+
+    get_first
+current list: 65, 22, 67, 13, 60, 61, 41, 17, 14, 89, 73, 77, 40, 76, 39, 70
+value: 65
+
+    set_at 15 5
+current list: 65, 22, 67, 13, 60, 15, 41, 17, 14, 89, 73, 77, 40, 76, 39, 70
+
+    insert 66 3
+current list: 65, 22, 67, 66, 13, 60, 15, 41, 17, 14, 89, 73, 77, 40, 76, 39, 70
+
+    remove_at 7
+current list: 65, 22, 67, 66, 13, 60, 15, 17, 14, 89, 73, 77, 40, 76, 39, 70
+
+    get_first
+current list: 65, 22, 67, 66, 13, 60, 15, 17, 14, 89, 73, 77, 40, 76, 39, 70
+value: 65
+
+    get_at 14
+current list: 65, 22, 67, 66, 13, 60, 15, 17, 14, 89, 73, 77, 40, 76, 39, 70
+value: 39
+
+    remove_at 12
+current list: 65, 22, 67, 66, 13, 60, 15, 17, 14, 89, 73, 77, 76, 39, 70
+
+    get_last
+current list: 65, 22, 67, 66, 13, 60, 15, 17, 14, 89, 73, 77, 76, 39, 70
+value: 70
+
+    remove_at 0
+current list: 22, 67, 66, 13, 60, 15, 17, 14, 89, 73, 77, 76, 39, 70
+
+    set_at 64 5
+current list: 22, 67, 66, 13, 60, 64, 17, 14, 89, 73, 77, 76, 39, 70
+
+    prepend 81
+current list: 81, 22, 67, 66, 13, 60, 64, 17, 14, 89, 73, 77, 76, 39, 70
+
+    prepend 12
+current list: 12, 81, 22, 67, 66, 13, 60, 64, 17, 14, 89, 73, 77, 76, 39, 70
+
+    prepend 29
+current list: 29, 12, 81, 22, 67, 66, 13, 60, 64, 17, 14, 89, 73, 77, 76, 39, 70
+
+    prepend 52
+current list: 52, 29, 12, 81, 22, 67, 66, 13, 60, 64, 17, 14, 89, 73, 77, 76, 39, 70
+
+    set_at 66 10
+current list: 52, 29, 12, 81, 22, 67, 66, 13, 60, 64, 66, 14, 89, 73, 77, 76, 39, 70
+
+    set_at 75 15
+current list: 52, 29, 12, 81, 22, 67, 66, 13, 60, 64, 66, 14, 89, 73, 77, 75, 39, 70
+
+    get_first
+current list: 52, 29, 12, 81, 22, 67, 66, 13, 60, 64, 66, 14, 89, 73, 77, 75, 39, 70
+value: 52
+
+    append 66
+current list: 52, 29, 12, 81, 22, 67, 66, 13, 60, 64, 66, 14, 89, 73, 77, 75, 39, 70, 66
+
+    get_at 9
+current list: 52, 29, 12, 81, 22, 67, 66, 13, 60, 64, 66, 14, 89, 73, 77, 75, 39, 70, 66
+value: 64
+
+    insert 78 9
+current list: 52, 29, 12, 81, 22, 67, 66, 13, 60, 78, 64, 66, 14, 89, 73, 77, 75, 39, 70, 66
+
+    clear
+current list: 
+
+    append 24
+current list: 24
+
+    get_first
+current list: 24
+value: 24
+
+    get_last
+current list: 24
+value: 24
+
+    get_last
+current list: 24
+value: 24
+
+    insert 23 3
+Index out of bounds!
+
+    get_last
+current list: 24
+value: 24
+
+    get_first
+current list: 24
+value: 24
+
+    prepend 10
+current list: 10, 24
+
+    clear
+current list: 
+
+    append 71
+current list: 71
+
+    get_last
+current list: 71
+value: 71
+
+    get_last
+current list: 71
+value: 71
+
+    clear
+current list: 
+
+    insert 93 -1
+Index out of bounds!
+
+    get_last
+current list: 
+The list is empty!
+
+    get_at 0
+current list: 
+Index out of bounds!
+
+    prepend 62
+current list: 62
+
+    get_last
+current list: 62
+value: 62
+
+    get_last
+current list: 62
+value: 62
+
+    prepend 90
+current list: 90, 62
+
+    get_at 7
+current list: 90, 62
+Index out of bounds!
+
+    get_last
+current list: 90, 62
+value: 62
+
+    get_first
+current list: 90, 62
+value: 90
+
+    get_at 1
+current list: 90, 62
+value: 62
+
+    set_at 81 1
+current list: 90, 81
+
+    remove_at 1
+current list: 90
+
+    remove_at 0
+current list: 
+
+    get_at 1
+current list: 
+Index out of bounds!
+
+    get_at 2
+current list: 
+Index out of bounds!
+
+    prepend 98
+current list: 98
+
+    get_first
+current list: 98
+value: 98
+
+    get_at -1
+current list: 98
+Index out of bounds!
+
+    get_first
+current list: 98
+value: 98
+
+    get_first
+current list: 98
+value: 98
+
+    set_at 73 6
+Index out of bounds!
+
+    get_at -2
+current list: 98
+Index out of bounds!
+
+    set_at 14 0
+current list: 14
+
+    remove_at 0
+current list: 
+
+    set_at 57 -2
+Index out of bounds!
+
+    clear
+current list: 
+
+    set_at 50 3
+Index out of bounds!
+
+    set_at 76 3
+Index out of bounds!
+
+    get_last
+current list: 
+The list is empty!
+
+    prepend 38
+current list: 38
+
+    set_at 60 3
+Index out of bounds!
+
+    get_first
+current list: 38
+value: 38
+
+    append 72
+current list: 38, 72
+
+    get_first
+current list: 38, 72
+value: 38
+
+    prepend 28
+current list: 28, 38, 72
+
+    prepend 25
+current list: 25, 28, 38, 72
+
+    get_first
+current list: 25, 28, 38, 72
+value: 25
+
+    remove_at 1
+current list: 25, 38, 72
+
+    get_at 2
+current list: 25, 38, 72
+value: 72
+
+    remove_at 1
+current list: 25, 72
+
+    set_at 26 6
+Index out of bounds!
+
+    get_last
+current list: 25, 72
+value: 72
+
+    prepend 74
+current list: 74, 25, 72
+
+    append 55
+current list: 74, 25, 72, 55
+
+    get_at 2
+current list: 74, 25, 72, 55
+value: 72
+
+    get_last
+current list: 74, 25, 72, 55
+value: 55
+
+    prepend 35
+current list: 35, 74, 25, 72, 55
+
+    insert 59 2
+current list: 35, 74, 59, 25, 72, 55
+
+    insert 88 2
+current list: 35, 74, 88, 59, 25, 72, 55
+
+    get_at 11
+current list: 35, 74, 88, 59, 25, 72, 55
+Index out of bounds!
+
+    get_first
+current list: 35, 74, 88, 59, 25, 72, 55
+value: 35
+
+    remove_at 9
+Index out of bounds!
+
+    remove_at 3
+current list: 35, 74, 88, 25, 72, 55
+
+    get_last
+current list: 35, 74, 88, 25, 72, 55
+value: 55
+
+    get_first
+current list: 35, 74, 88, 25, 72, 55
+value: 35
+
+    get_last
+current list: 35, 74, 88, 25, 72, 55
+value: 55
+
+    remove_at 4
+current list: 35, 74, 88, 25, 55
+
+    append 27
+current list: 35, 74, 88, 25, 55, 27
+
+    set_at 46 -2
+Index out of bounds!
+
+    remove_at 5
+current list: 35, 74, 88, 25, 55
+
+    append 10
+current list: 35, 74, 88, 25, 55, 10
+
+    insert 48 3
+current list: 35, 74, 88, 48, 25, 55, 10
+
+    get_first
+current list: 35, 74, 88, 48, 25, 55, 10
+value: 35
+
+    get_first
+current list: 35, 74, 88, 48, 25, 55, 10
+value: 35
+
+    append 62
+current list: 35, 74, 88, 48, 25, 55, 10, 62
+
+    set_at 74 5
+current list: 35, 74, 88, 48, 25, 74, 10, 62
+
+    insert 63 10
+Index out of bounds!
+
+    append 91
+current list: 35, 74, 88, 48, 25, 74, 10, 62, 91
+
+    get_at 0
+current list: 35, 74, 88, 48, 25, 74, 10, 62, 91
+value: 35
+
+    insert 78 2
+current list: 35, 74, 78, 88, 48, 25, 74, 10, 62, 91
+
+    append 22
+current list: 35, 74, 78, 88, 48, 25, 74, 10, 62, 91, 22
+
+    get_at 7
+current list: 35, 74, 78, 88, 48, 25, 74, 10, 62, 91, 22
+value: 10
+
+    set_at 33 2
+current list: 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+
+    get_last
+current list: 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 22
+
+    prepend 10
+current list: 10, 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+
+    set_at 41 12
+Index out of bounds!
+
+    get_at 5
+current list: 10, 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 48
+
+    get_last
+current list: 10, 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 22
+
+    get_first
+current list: 10, 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 10
+
+    get_last
+current list: 10, 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 22
+
+    remove_at 0
+current list: 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+
+    remove_at -2
+Index out of bounds!
+
+    get_last
+current list: 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 22
+
+    get_last
+current list: 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 22
+
+    get_last
+current list: 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 22
+
+    get_last
+current list: 35, 74, 33, 88, 48, 25, 74, 10, 62, 91, 22
+value: 22
+
+    remove_at 6
+current list: 35, 74, 33, 88, 48, 25, 10, 62, 91, 22
+
+    insert 47 8
+current list: 35, 74, 33, 88, 48, 25, 10, 62, 47, 91, 22
+
+    get_first
+current list: 35, 74, 33, 88, 48, 25, 10, 62, 47, 91, 22
+value: 35
+
+    remove_at 2
+current list: 35, 74, 88, 48, 25, 10, 62, 47, 91, 22
+
+    insert 36 5
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22
+
+    get_first
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22
+value: 35
+
+    get_at 9
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22
+value: 91
+
+    get_last
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22
+value: 22
+
+    get_first
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22
+value: 35
+
+    get_first
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22
+value: 35
+
+    get_first
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22
+value: 35
+
+    append 17
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22, 17
+
+    get_last
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22, 17
+value: 17
+
+    get_last
+current list: 35, 74, 88, 48, 25, 36, 10, 62, 47, 91, 22, 17
+value: 17
+
+    set_at 54 1
+current list: 35, 54, 88, 48, 25, 36, 10, 62, 47, 91, 22, 17
+
+    get_last
+current list: 35, 54, 88, 48, 25, 36, 10, 62, 47, 91, 22, 17
+value: 17
+
+    insert 18 -2
+Index out of bounds!
+
+    insert 95 9
+current list: 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17
+
+    get_last
+current list: 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17
+value: 17
+
+    prepend 43
+current list: 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17
+
+    append 16
+current list: 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16
+
+    prepend 61
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16
+
+    append 13
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16, 13
+
+    append 22
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16, 13, 22
+
+    append 46
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16, 13, 22, 46
+
+    get_at 10
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16, 13, 22, 46
+value: 47
+
+    get_last
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16, 13, 22, 46
+value: 46
+
+    get_at 2
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 16, 13, 22, 46
+value: 35
+
+    insert 77 15
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 77, 16, 13, 22, 46
+
+    get_first
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 77, 16, 13, 22, 46
+value: 61
+
+    get_at 1
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 77, 16, 13, 22, 46
+value: 43
+
+    insert 47 2
+current list: 61, 43, 47, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 77, 16, 13, 22, 46
+
+    get_at 23
+current list: 61, 43, 47, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 77, 16, 13, 22, 46
+Index out of bounds!
+
+    remove_at 2
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 47, 95, 91, 22, 17, 77, 16, 13, 22, 46
+
+    set_at 65 10
+current list: 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 95, 91, 22, 17, 77, 16, 13, 22, 46
+
+    prepend 75
+current list: 75, 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 95, 91, 22, 17, 77, 16, 13, 22, 46
+
+    get_last
+current list: 75, 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 95, 91, 22, 17, 77, 16, 13, 22, 46
+value: 46
+
+    remove_at 12
+current list: 75, 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 13, 22, 46
+
+    get_at 3
+current list: 75, 61, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 13, 22, 46
+value: 35
+
+    insert 81 2
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 13, 22, 46
+
+    remove_at 18
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46
+
+    get_first
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46
+value: 75
+
+    append 98
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46, 98
+
+    get_last
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46, 98
+value: 98
+
+    append 40
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46, 98, 40
+
+    get_last
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46, 98, 40
+value: 40
+
+    append 34
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46, 98, 40, 34
+
+    get_last
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46, 98, 40, 34
+value: 34
+
+    get_last
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 91, 22, 17, 77, 16, 22, 46, 98, 40, 34
+value: 34
+
+    set_at 19 13
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34
+
+    append 67
+current list: 75, 61, 81, 43, 35, 54, 88, 48, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67
+
+    set_at 40 7
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67
+
+    get_last
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67
+value: 67
+
+    get_first
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67
+value: 75
+
+    insert 53 24
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53
+
+    get_at 24
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53
+value: 53
+
+    append 95
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95
+
+    insert 40 7
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95
+
+    get_last
+current list: 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95
+value: 95
+
+    prepend 33
+current list: 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95
+
+    append 24
+current list: 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24
+
+    append 85
+current list: 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 85
+
+    get_at 0
+current list: 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 85
+value: 33
+
+    get_last
+current list: 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 85
+value: 85
+
+    get_last
+current list: 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 85
+value: 85
+
+    get_at 22
+current list: 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 85
+value: 98
+
+    prepend 36
+current list: 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 85
+
+    remove_at 34
+Index out of bounds!
+
+    get_at 12
+current list: 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 85
+value: 36
+
+    set_at 19 30
+current list: 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19
+
+    insert 59 31
+current list: 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 10, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+
+    set_at 46 13
+current list: 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+
+    get_at 34
+current list: 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+Index out of bounds!
+
+    get_first
+current list: 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+value: 36
+
+    prepend 52
+current list: 52, 36, 33, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+
+    insert 90 3
+current list: 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+
+    get_first
+current list: 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+value: 52
+
+    insert 12 0
+current list: 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+
+    prepend 10
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 25, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+
+    remove_at 15
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+
+    get_last
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59
+value: 59
+
+    append 49
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59, 49
+
+    insert 20 16
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59, 49
+
+    append 48
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 24, 19, 59, 49, 48
+
+    insert 67 33
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 95, 67, 24, 19, 59, 49, 48
+
+    insert 35 32
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 95, 67, 24, 19, 59, 49, 48
+
+    get_first
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 95, 67, 24, 19, 59, 49, 48
+value: 10
+
+    get_last
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 46, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 95, 67, 24, 19, 59, 49, 48
+value: 48
+
+    remove_at 17
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 95, 67, 24, 19, 59, 49, 48
+
+    remove_at 32
+current list: 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 67, 24, 19, 59, 49, 48
+
+    prepend 24
+current list: 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 67, 24, 19, 59, 49, 48
+
+    remove_at 14
+current list: 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 67, 24, 19, 59, 49, 48
+
+    get_at 16
+current list: 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 53, 35, 67, 24, 19, 59, 49, 48
+value: 20
+
+    insert 25 30
+current list: 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48
+
+    prepend 96
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48
+
+    get_last
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48
+value: 48
+
+    append 96
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48, 96
+
+    get_last
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 65, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48, 96
+value: 96
+
+    remove_at 19
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48, 96
+
+    append 21
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48, 96, 21
+
+    get_first
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48, 96, 21
+value: 96
+
+    remove_at 39
+current list: 96, 24, 10, 12, 52, 36, 33, 90, 75, 61, 81, 43, 35, 54, 88, 40, 36, 20, 62, 19, 22, 17, 77, 16, 22, 46, 98, 40, 34, 67, 25, 53, 35, 67, 24, 19, 59, 49, 48, 21
+
+    clear
+current list: 
+
+    get_last
+current list: 
+The list is empty!
+
+    insert 31 2
+Index out of bounds!
+
+    remove_at 1
+Index out of bounds!
+
+    append 15
+current list: 15
+
+    get_first
+current list: 15
+value: 15
+
+    set_at 41 1
+Index out of bounds!
+
+    append 46
+current list: 15, 46
+
+    get_first
+current list: 15, 46
+value: 15
+
+    prepend 90
+current list: 90, 15, 46
+
+    prepend 14
+current list: 14, 90, 15, 46
+
+    get_at -1
+current list: 14, 90, 15, 46
+Index out of bounds!
+
+    insert 27 2
+current list: 14, 90, 27, 15, 46
+
+    clear
+current list: 
+
+    prepend 66
+current list: 66
+
+    insert 54 2
+Index out of bounds!
+
+    append 95
+current list: 66, 95
+
+    set_at 71 2
+Index out of bounds!
+
+    get_at 3
+current list: 66, 95
+Index out of bounds!
+
+    insert 10 4
+Index out of bounds!
+
+    remove_at 3
+Index out of bounds!
+
+    get_at 2
+current list: 66, 95
+Index out of bounds!
+
+    clear
+current list: 
+
+    get_last
+current list: 
+The list is empty!
+
+    insert 17 2
+Index out of bounds!
+
+    insert 65 0
+current list: 65
+
+    set_at 14 3
+Index out of bounds!
+
+    prepend 91
+current list: 91, 65
+
+    remove_at 7
+Index out of bounds!
+
+    get_last
+current list: 91, 65
+value: 65
+
+    clear
+current list: 
+
+    set_at 96 -1
+Index out of bounds!
+
+    remove_at 1
+Index out of bounds!
+
+    get_first
+current list: 
+The list is empty!
+
+    get_last
+current list: 
+The list is empty!
+
+    get_last
+current list: 
+The list is empty!
+
+    prepend 44
+current list: 44
+
+    prepend 62
+current list: 62, 44
+
+    set_at 81 1
+current list: 62, 81
+
+    get_first
+current list: 62, 81
+value: 62
+
+    prepend 96
+current list: 96, 62, 81
+
+    append 11
+current list: 96, 62, 81, 11
+
+    insert_ordered 23
+The list is not ordered
+
+    insert_ordered 24
+The list is not ordered
+
+    insert_ordered 29
+The list is not ordered
+
+    insert_ordered 22
+The list is not ordered
+
+    insert_ordered 13
+The list is not ordered
+
+    insert_ordered 30
+The list is not ordered
+
+    insert_ordered 14
+The list is not ordered
+
+    insert_ordered 27
+The list is not ordered
+
+    insert_ordered 21
+The list is not ordered
+
+    insert_ordered 29
+The list is not ordered
+
+    insert_ordered 27
+The list is not ordered
+
+    insert_ordered 26
+The list is not ordered
+
+    insert_ordered 10
+The list is not ordered
+
+    insert_ordered 28
+The list is not ordered
+
+    insert_ordered 30
+The list is not ordered
+
+    insert_ordered 25
+The list is not ordered
+
+    insert_ordered 18
+The list is not ordered
+
+    insert_ordered 30
+The list is not ordered
+
+    insert_ordered 18
+The list is not ordered
+
+    insert_ordered 16
+The list is not ordered
+
+    clear
+current list: 
+
+    insert 59 2
+Index out of bounds!
+
+    insert 75 4
+Index out of bounds!
+
+    insert 66 -2
+Index out of bounds!
+
+    insert 24 1
+Index out of bounds!
+
+    insert 46 5
+Index out of bounds!
+
+    insert 65 -1
+Index out of bounds!
+
+    insert 85 8
+Index out of bounds!
+
+    insert 61 4
+Index out of bounds!
+
+    insert 99 5
+Index out of bounds!
+
+    insert 24 -1
+Index out of bounds!
+
+    insert 47 -1
+Index out of bounds!
+
+    insert 74 14
+Index out of bounds!
+
+    insert 67 9
+Index out of bounds!
+
+    insert 80 8
+Index out of bounds!
+
+    insert 94 11
+Index out of bounds!
+
+    insert 48 13
+Index out of bounds!
+
+    insert 75 13
+Index out of bounds!
+
+    insert 83 20
+Index out of bounds!
+
+    insert 88 10
+Index out of bounds!
+
+    insert 15 22
+Index out of bounds!
+
+    insert_ordered 29
+current list: 29
+
+    prepend 64
+current list: 64, 29
+
+    prepend 31
+current list: 31, 64, 29
+
+    prepend 19
+current list: 19, 31, 64, 29
+
+    prepend 49
+current list: 49, 19, 31, 64, 29
+
+    prepend 80
+current list: 80, 49, 19, 31, 64, 29
+
+    prepend 22
+current list: 22, 80, 49, 19, 31, 64, 29
+
+    prepend 97
+current list: 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 84
+current list: 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 93
+current list: 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 37
+current list: 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 44
+current list: 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 92
+current list: 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 88
+current list: 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 51
+current list: 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 47
+current list: 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 82
+current list: 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 23
+current list: 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 40
+current list: 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 82
+current list: 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 95
+current list: 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 45
+current list: 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 73
+current list: 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 63
+current list: 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 91
+current list: 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 28
+current list: 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 50
+current list: 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 96
+current list: 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 36
+current list: 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 32
+current list: 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 55
+current list: 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 73
+current list: 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    prepend 22
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    find 30
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+Value not found in list
+
+    find 22
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+index of value: 0 | value at index: 22
+
+    find 29
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+index of value: 32 | value at index: 29
+
+    find 12
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+Value not found in list
+
+    find 25
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+Value not found in list
+
+    find 12
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+Value not found in list
+
+    find 17
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+Value not found in list
+
+    find 26
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+Value not found in list
+
+    find 11
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+Value not found in list
+
+    find 28
+current list: 22, 73, 55, 32, 36, 96, 50, 28, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+index of value: 7 | value at index: 28
+
+    remove_value 12
+Value not found in list
+
+    remove_value 21
+Value not found in list
+
+    remove_value 28
+current list: 22, 73, 55, 32, 36, 96, 50, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 19, 31, 64, 29
+
+    remove_value 13
+Value not found in list
+
+    remove_value 12
+Value not found in list
+
+    remove_value 19
+current list: 22, 73, 55, 32, 36, 96, 50, 91, 63, 73, 45, 95, 82, 40, 23, 82, 47, 51, 88, 92, 44, 37, 93, 84, 97, 22, 80, 49, 31, 64, 29
+
+    remove_value 14
+Value not found in list
+
+    remove_value 16
+Value not found in list
+
+    remove_value 26
+Value not found in list
+
+    remove_value 10
+Value not found in list
+
+    clear
+current list: 
+
+    insert_ordered 21
+current list: 21
+
+    insert_ordered 23
+current list: 21, 23
+
+    insert_ordered 15
+current list: 15, 21, 23
+
+    insert_ordered 26
+current list: 15, 21, 23, 26
+
+    insert_ordered 20
+current list: 15, 20, 21, 23, 26
+
+    insert_ordered 18
+current list: 15, 18, 20, 21, 23, 26
+
+    insert_ordered 25
+current list: 15, 18, 20, 21, 23, 25, 26
+
+    insert_ordered 24
+current list: 15, 18, 20, 21, 23, 24, 25, 26
+
+    insert_ordered 24
+current list: 15, 18, 20, 21, 23, 24, 24, 25, 26
+
+    insert_ordered 17
+current list: 15, 17, 18, 20, 21, 23, 24, 24, 25, 26
+
+    insert_ordered 14
+current list: 14, 15, 17, 18, 20, 21, 23, 24, 24, 25, 26
+
+    insert_ordered 30
+current list: 14, 15, 17, 18, 20, 21, 23, 24, 24, 25, 26, 30
+
+    insert_ordered 12
+current list: 12, 14, 15, 17, 18, 20, 21, 23, 24, 24, 25, 26, 30
+
+    insert_ordered 23
+current list: 12, 14, 15, 17, 18, 20, 21, 23, 23, 24, 24, 25, 26, 30
+
+    insert_ordered 10
+current list: 10, 12, 14, 15, 17, 18, 20, 21, 23, 23, 24, 24, 25, 26, 30
+
+    insert_ordered 17
+current list: 10, 12, 14, 15, 17, 17, 18, 20, 21, 23, 23, 24, 24, 25, 26, 30
+
+    insert_ordered 17
+current list: 10, 12, 14, 15, 17, 17, 17, 18, 20, 21, 23, 23, 24, 24, 25, 26, 30
+
+    insert_ordered 25
+current list: 10, 12, 14, 15, 17, 17, 17, 18, 20, 21, 23, 23, 24, 24, 25, 25, 26, 30
+
+    insert_ordered 20
+current list: 10, 12, 14, 15, 17, 17, 17, 18, 20, 20, 21, 23, 23, 24, 24, 25, 25, 26, 30
+
+    insert_ordered 23
+current list: 10, 12, 14, 15, 17, 17, 17, 18, 20, 20, 21, 23, 23, 23, 24, 24, 25, 25, 26, 30
+
+    insert_ordered 19
+current list: 10, 12, 14, 15, 17, 17, 17, 18, 19, 20, 20, 21, 23, 23, 23, 24, 24, 25, 25, 26, 30
+
+    insert_ordered 16
+current list: 10, 12, 14, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 23, 23, 23, 24, 24, 25, 25, 26, 30
+
+    insert_ordered 25
+current list: 10, 12, 14, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30
+
+    insert_ordered 15
+current list: 10, 12, 14, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30
+
+    insert_ordered 22
+current list: 10, 12, 14, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30
+
+    insert_ordered 15
+current list: 10, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30
+
+    insert_ordered 21
+current list: 10, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30
+
+    insert_ordered 30
+current list: 10, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30
+
+    insert_ordered 21
+current list: 10, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30
+
+    insert_ordered 30
+current list: 10, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+
+    insert_ordered 12
+current list: 10, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+
+    insert_ordered 12
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+
+    find 13
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+Value not found in list
+
+    find 28
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+Value not found in list
+
+    find 21
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+index of value: 16 | value at index: 21
+
+    find 19
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+index of value: 13 | value at index: 19
+
+    find 12
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+index of value: 2 | value at index: 12
+
+    find 15
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+index of value: 6 | value at index: 15
+
+    find 27
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+Value not found in list
+
+    find 10
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+index of value: 0 | value at index: 10
+
+    find 11
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+Value not found in list
+
+    find 22
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 30, 30, 30
+index of value: 19 | value at index: 22
+
+    remove_value 26
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 30, 30, 30
+
+    remove_value 20
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 25, 30, 30, 30
+
+    remove_value 25
+current list: 10, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    remove_value 11
+Value not found in list
+
+    remove_value 10
+current list: 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 19, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    remove_value 19
+current list: 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    remove_value 10
+Value not found in list
+
+    remove_value 10
+Value not found in list
+
+    remove_value 29
+Value not found in list
+
+    remove_value 11
+Value not found in list
+
+    insert 23 0
+current list: 23, 12, 12, 12, 14, 15, 15, 15, 16, 17, 17, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    insert 20 4
+current list: 23, 12, 12, 12, 20, 14, 15, 15, 15, 16, 17, 17, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    insert 73 0
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 15, 16, 17, 17, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    insert 57 12
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 15, 16, 17, 57, 17, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    insert 91 9
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 91, 15, 16, 17, 57, 17, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    insert 24 9
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 16, 17, 57, 17, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    insert 72 16
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 16, 17, 57, 17, 72, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 25, 30, 30, 30
+
+    insert 29 30
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 16, 17, 57, 17, 72, 17, 18, 20, 21, 21, 21, 22, 23, 23, 23, 24, 24, 25, 29, 25, 30, 30, 30
+
+    insert 40 25
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 16, 17, 57, 17, 72, 17, 18, 20, 21, 21, 21, 22, 23, 40, 23, 23, 24, 24, 25, 29, 25, 30, 30, 30
+
+    insert 26 21
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 16, 17, 57, 17, 72, 17, 18, 20, 21, 26, 21, 21, 22, 23, 40, 23, 23, 24, 24, 25, 29, 25, 30, 30, 30
+
+    insert 19 31
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 16, 17, 57, 17, 72, 17, 18, 20, 21, 26, 21, 21, 22, 23, 40, 23, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 70 -2
+Index out of bounds!
+
+    insert 80 28
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 16, 17, 57, 17, 72, 17, 18, 20, 21, 26, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 81 12
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 20, 21, 26, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 73 20
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 99 24
+current list: 73, 23, 12, 12, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 40 4
+current list: 73, 23, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 58 1
+current list: 73, 58, 23, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 64 3
+current list: 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 24 0
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 30
+
+    insert 99 45
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 99, 30
+
+    insert 31 33
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 19, 25, 29, 25, 30, 30, 99, 30
+
+    insert 35 40
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 29, 25, 30, 30, 99, 30
+
+    insert 69 21
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 29, 25, 30, 30, 99, 30
+
+    insert 62 45
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 29, 62, 25, 30, 30, 99, 30
+
+    insert 51 22
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 29, 62, 25, 30, 30, 99, 30
+
+    insert 13 12
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 29, 62, 25, 30, 30, 99, 30
+
+    insert 29 11
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 29, 62, 25, 30, 30, 99, 30
+
+    insert 93 47
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 93, 29, 62, 25, 30, 30, 99, 30
+
+    insert 33 49
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 93, 29, 33, 62, 25, 30, 30, 99, 30
+
+    insert 24 51
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    insert 88 42
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    find 10
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+Value not found in list
+
+    find 15
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 12 | value at index: 15
+
+    find 15
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 12 | value at index: 15
+
+    find 20
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 9 | value at index: 20
+
+    find 14
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 10 | value at index: 14
+
+    find 25
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 47 | value at index: 25
+
+    find 14
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 10 | value at index: 14
+
+    find 22
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 35 | value at index: 22
+
+    find 22
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 35 | value at index: 22
+
+    find 25
+current list: 24, 73, 58, 23, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+index of value: 47 | value at index: 25
+
+    remove_value 23
+current list: 24, 73, 58, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 26, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 26
+current list: 24, 73, 58, 64, 12, 12, 40, 12, 20, 14, 29, 15, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 15
+current list: 24, 73, 58, 64, 12, 12, 40, 12, 20, 14, 29, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 14
+current list: 24, 73, 58, 64, 12, 12, 40, 12, 20, 29, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 20
+current list: 24, 73, 58, 64, 12, 12, 40, 12, 29, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 24
+current list: 73, 58, 64, 12, 12, 40, 12, 29, 13, 15, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 15
+current list: 73, 58, 64, 12, 12, 40, 12, 29, 13, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 99, 21, 21, 22, 23, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 23
+current list: 73, 58, 64, 12, 12, 40, 12, 29, 13, 24, 91, 15, 81, 16, 17, 57, 17, 69, 51, 72, 17, 18, 73, 20, 21, 99, 21, 21, 22, 31, 40, 23, 80, 23, 88, 24, 24, 35, 19, 25, 93, 29, 33, 62, 24, 25, 30, 30, 99, 30
+
+    remove_value 11
+Value not found in list
+
+    remove_value 26
+Value not found in list

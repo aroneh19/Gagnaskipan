@@ -1,0 +1,17 @@
+TESTING MODULUS:
+
+The modulus of 8 and 3 is 2
+The modulus of 9 and 3 is 0
+The modulus of 10 and 3 is 1
+The modulus of 11 and 3 is 2
+The modulus of 8 and 2 is 0
+The modulus of 0 and 7 is 0
+The modulus of 15 and 5 is 0
+The modulus of 128 and 16 is 0
+The modulus of 128 and 15 is 8
+
+TESTING HOW MANY:
+
+2 of the items in ['a', 'f', 'd', 't'] are also in ['a', 'b', 'c', 'd', 'e']
+4 of the items in ['a', 'b', 'f', 'g', 'a', 't', 'c'] are also in ['a', 'b', 'c', 'd', 'e']
+0 of the items in ['f', 'g', 't'] are also in ['a', 'b', 'c', 'd', 'e']

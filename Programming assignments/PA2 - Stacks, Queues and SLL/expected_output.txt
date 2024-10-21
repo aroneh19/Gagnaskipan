@@ -1,0 +1,68 @@
+GET_SIZE TESTS
+
+
+A E L E A 
+size: 5
+A E L E A 
+
+
+
+size: 0
+
+
+
+A 
+size: 1
+A 
+
+
+A C 
+size: 2
+A C 
+REVERSE TESTS
+
+
+A B C D E 
+E D C B A 
+
+
+A A A B A 
+A B A A A 
+
+
+C B A B A 
+A B A B C 
+
+
+C 
+C 
+
+
+
+
+
+
+C B 
+B C 
+PALINDROME TESTS
+
+
+A E L E A 
+True
+A E L E A 
+
+
+A E L B A 
+False
+A E L B A 
+
+
+C A L L A C 
+True
+C A L L A C 
+
+
+C A L T E C 
+False
+C A L T E C 
+

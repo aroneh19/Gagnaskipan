@@ -1,0 +1,26 @@
+[
+    {
+        "aron": {
+            "wins": 1,
+            "losses": 3,
+            "total_score": 5,
+            "high_score": 5,
+            "game_history": [
+                5,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "tomas": {
+            "wins": 2,
+            "losses": 1,
+            "total_score": 12,
+            "high_score": 12,
+            "game_history": [
+                12
+            ]
+        }
+    }
+]

@@ -1,0 +1,10 @@
+testing sll recursion
+5 7 2 6 8 1 5
+sum 16
+removed even numbers
+5 7 1 5
+sum 0
+testing dll
+-7 5 -5 3 -2 -8 -15 4 6 -1 
+removing negatives
+5 3 4 6

@@ -1,0 +1,6 @@
+Testing find_smallest
+1
+Testing sum_tree
+73
+Testing odd_numbers
+[1, 1, 5, 7, 9, 13, 15]

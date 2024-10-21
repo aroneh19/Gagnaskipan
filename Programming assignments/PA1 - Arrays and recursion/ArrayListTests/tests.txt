@@ -1,0 +1,1274 @@
+
+new int
+prepend 23
+prepend 21
+prepend 19
+insert 20 1
+insert 22 3
+append 24
+set_at 1 0
+set_at 2 1
+set_at 3 2
+set_at 4 3
+get_first
+get_at 0
+get_at 6
+get_at 5
+get_last
+remove_at 1
+remove_at 5
+remove_at 0
+remove_at 3
+clear
+
+
+new string
+prepend "twentythree"
+prepend "twentyone"
+prepend "nineteen"
+insert "twenty" 1
+insert "twentytwo" 3
+append "twentyfour"
+set_at "one" 0
+set_at "two" 1
+set_at "three" 2
+set_at "four" 3
+get_first
+get_at 0
+get_at 6
+get_at 5
+get_last
+remove_at 1
+remove_at 5
+remove_at 0
+remove_at 3
+clear
+
+new my_class
+prepend "23 twentythree 23.23"
+prepend "21 twentyone 21.21"
+prepend "19 nineteen 19.19"
+insert "20 twenty 20.20" 1
+insert "22 twentytwo 22.22" 3
+append "24 twentyfour 24.24"
+set_at "1 one 1.1" 0
+set_at "2 two 2.2" 1
+set_at "3 three 3.3" 2
+set_at "4 four 4.4" 3
+get_first
+get_at 0
+get_at 6
+get_at 5
+get_last
+remove_at 1
+remove_at 5
+remove_at 0
+remove_at 3
+clear
+
+
+
+
+
+new int
+remove_at 1
+get_at 0
+get_at 1
+prepend 99
+get_last
+append 27
+set_at 17 2
+insert 33 1
+get_last
+insert 41 3
+get_first
+prepend 31
+get_first
+insert 61 5
+set_at 25 2
+get_last
+remove_at 7
+get_at 0
+insert 38 2
+get_first
+get_first
+remove_at 1
+get_first
+append 88
+append 10
+append 41
+remove_at 8
+append 57
+remove_at 2
+get_at 5
+get_last
+get_last
+get_last
+get_first
+get_at 3
+set_at 24 6
+prepend 33
+get_first
+insert 67 7
+prepend 82
+set_at 73 9
+get_at 4
+append 53
+get_at 0
+insert 36 12
+append 17
+get_first
+prepend 12
+set_at 90 1
+get_first
+append 30
+get_at 8
+get_at 15
+set_at 88 9
+append 20
+get_first
+prepend 56
+get_last
+append 73
+append 74
+set_at 87 11
+insert 55 13
+get_at 8
+get_last
+clear
+remove_at 2
+insert 45 1
+get_last
+set_at 36 2
+remove_at 0
+get_first
+remove_at 1
+get_first
+set_at 12 0
+get_first
+insert 14 0
+remove_at 1
+prepend 88
+insert 35 0
+insert 17 2
+append 58
+get_at 1
+get_first
+insert 58 1
+get_at 1
+get_last
+append 32
+insert 99 0
+get_at 7
+get_first
+prepend 18
+insert 71 7
+append 54
+remove_at 8
+get_at 1
+get_last
+get_at 4
+get_at 3
+set_at 52 5
+append 40
+append 72
+append 42
+remove_at 10
+prepend 66
+insert 78 3
+set_at 16 5
+append 83
+get_last
+get_first
+append 88
+prepend 63
+insert 97 2
+append 43
+append 75
+get_last
+insert 99 6
+get_first
+get_at 18
+get_last
+append 71
+get_first
+remove_at 20
+get_first
+append 58
+prepend 66
+insert 64 10
+insert 91 2
+prepend 87
+remove_at 22
+get_last
+remove_at 15
+get_at 13
+append 49
+insert 56 21
+prepend 71
+prepend 28
+get_last
+get_at 23
+get_first
+get_first
+set_at 72 6
+get_first
+get_first
+prepend 93
+get_first
+append 20
+get_first
+get_at 25
+get_at 1
+append 70
+set_at 84 20
+append 66
+append 59
+get_first
+insert 61 8
+get_last
+get_last
+append 47
+insert 20 9
+get_at 9
+insert 60 23
+get_at 22
+prepend 13
+get_last
+get_last
+append 15
+set_at 60 18
+insert 62 11
+remove_at 19
+prepend 90
+get_at 4
+append 18
+remove_at 37
+set_at 32 9
+get_last
+get_last
+get_at 14
+remove_at 3
+prepend 59
+get_last
+remove_at 21
+get_first
+prepend 55
+get_at 11
+remove_at 25
+remove_at 6
+get_first
+set_at 95 27
+get_last
+remove_at 23
+remove_at 19
+insert 48 21
+get_at 32
+clear
+clear
+get_first
+insert 99 2
+
+insert 43 0
+insert 80 4
+get_last
+get_first
+append 82
+
+get_last
+append 41
+get_last
+set_at 22 6
+
+get_last
+get_first
+append 92
+remove_at 0
+get_last
+
+get_first
+insert 73 2
+get_first
+get_at 7
+get_first
+set_at 70 6
+set_at 95 0
+prepend 25
+
+get_last
+
+
+append 91
+remove_at 3
+get_first
+append 37
+set_at 73 1
+get_first
+insert 57 0
+insert 33 9
+get_first
+append 65
+clear
+get_first
+set_at 60 1
+prepend 94
+
+set_at 12 0
+
+remove_at 1
+get_at 0
+insert 60 1
+prepend 59
+
+get_first
+get_at 0
+remove_at 1
+remove_at 1
+remove_at 0
+get_last
+get_at 0
+get_at 0
+clear
+append 96
+remove_at 1
+get_first
+set_at 41 2
+insert 94 1
+insert 31 1
+prepend 97
+get_first
+remove_at 1
+prepend 10
+get_at 0
+prepend 33
+get_at 4
+insert 32 1
+insert 17 7
+get_first
+get_last
+insert 15 8
+
+insert 10 6
+get_last
+get_at 1
+get_last
+get_first
+insert 25 3
+set_at 60 3
+insert 69 4
+insert 96 7
+remove_at 10
+insert 94 11
+insert 13 1
+clear
+insert 69 0
+prepend 10
+append 12
+get_at 5
+get_first
+get_at 2
+get_first
+remove_at 2
+get_last
+get_last
+prepend 53
+prepend 32
+get_at 4
+append 72
+set_at 45 5
+remove_at 2
+append 90
+remove_at 1
+prepend 72
+prepend 72
+get_first
+prepend 17
+get_at 6
+insert 39 3
+
+set_at 52 9
+insert 10 0
+get_at 10
+get_last
+get_at 11
+insert 29 7
+
+get_first
+
+
+get_first
+get_first
+get_last
+append 61
+prepend 44
+prepend 49
+prepend 81
+get_at 5
+prepend 20
+clear
+remove_at 1
+
+get_last
+insert 34 1
+
+prepend 83
+prepend 85
+insert 52 3
+get_first
+remove_at 0
+set_at 18 2
+get_first
+remove_at 1
+get_last
+append 57
+insert 70 0
+
+prepend 99
+insert 22 2
+append 92
+append 77
+
+remove_at 9
+set_at 15 1
+append 25
+
+remove_at 0
+get_first
+insert 75 5
+append 87
+set_at 63 9
+get_at 2
+append 46
+remove_at 5
+get_last
+
+get_first
+get_at 1
+append 93
+set_at 77 1
+
+prepend 83
+get_first
+append 86
+remove_at 12
+get_first
+
+append 15
+prepend 46
+get_at 1
+remove_at 5
+clear
+insert 10 0
+get_first
+get_last
+get_last
+insert 40 2
+get_first
+get_last
+
+get_first
+get_last
+remove_at 4
+remove_at 1
+get_at 1
+get_first
+get_at 2
+get_last
+prepend 70
+remove_at 2
+set_at 77 0
+get_last
+get_at 1
+remove_at 2
+append 54
+get_at 2
+insert 90 1
+get_at 3
+append 55
+get_last
+prepend 40
+get_last
+get_first
+set_at 93 1
+set_at 88 5
+insert 45 4
+append 43
+set_at 74 6
+set_at 13 6
+remove_at 0
+insert 56 3
+append 13
+get_last
+insert 78 1
+insert 21 6
+get_first
+remove_at 7
+remove_at 6
+insert 54 3
+prepend 72
+remove_at 3
+remove_at 7
+set_at 40 2
+get_last
+append 41
+set_at 42 2
+get_first
+get_last
+prepend 62
+get_at 7
+prepend 31
+set_at 59 4
+set_at 23 7
+get_first
+append 52
+set_at 51 8
+insert 32 9
+get_first
+append 67
+insert 17 0
+get_last
+append 76
+append 78
+set_at 48 17
+append 99
+insert 90 4
+append 52
+get_at 5
+get_last
+remove_at 20
+
+append 18
+remove_at 15
+insert 56 16
+get_last
+get_last
+insert 30 14
+clear
+append 73
+
+get_first
+remove_at 2
+get_at 0
+prepend 39
+prepend 58
+append 66
+remove_at 3
+
+prepend 75
+set_at 57 1
+get_at 2
+set_at 47 2
+append 70
+get_first
+get_first
+set_at 78 1
+get_last
+get_first
+set_at 68 4
+insert 82 5
+insert 76 3
+prepend 31
+append 58
+get_last
+get_at 7
+clear
+get_first
+get_last
+prepend 22
+get_last
+get_last
+
+clear
+get_at 2
+
+insert 65 1
+insert 11 1
+prepend 42
+get_first
+remove_at 2
+get_last
+remove_at 4
+prepend 31
+get_first
+get_last
+prepend 17
+get_last
+get_at 0
+get_last
+get_at 2
+get_last
+remove_at 2
+get_last
+clear
+append 66
+remove_at 2
+prepend 44
+get_last
+prepend 83
+insert 67 2
+insert 20 1
+remove_at 5
+set_at 96 1
+prepend 77
+append 31
+get_last
+remove_at 4
+prepend 91
+set_at 98 7
+
+get_first
+get_at 4
+get_last
+
+get_at 1
+remove_at 3
+get_at 6
+get_last
+set_at 14 0
+get_last
+clear
+get_first
+append 71
+insert 84 0
+set_at 50 2
+prepend 76
+get_last
+prepend 71
+prepend 63
+prepend 43
+get_last
+prepend 87
+
+get_first
+insert 68 7
+get_last
+remove_at 8
+append 91
+
+append 31
+insert 30 10
+get_first
+remove_at 2
+append 86
+set_at 70 12
+remove_at 3
+append 35
+append 56
+insert 38 2
+append 73
+get_last
+append 29
+prepend 41
+insert 53 13
+insert 39 4
+get_at 7
+insert 58 1
+remove_at 17
+remove_at 4
+insert 33 1
+set_at 70 10
+append 57
+remove_at 14
+remove_at 3
+prepend 45
+insert 45 19
+get_first
+append 88
+prepend 64
+append 98
+remove_at 14
+clear
+insert 86 1
+insert 93 2
+get_last
+remove_at 0
+get_last
+prepend 84
+remove_at 2
+get_last
+get_last
+get_first
+prepend 18
+append 20
+get_first
+insert 18 2
+get_last
+remove_at 4
+get_first
+
+set_at 11 0
+get_at 0
+remove_at 2
+prepend 99
+prepend 97
+remove_at 2
+insert 64 2
+set_at 66 3
+
+prepend 59
+
+get_last
+get_last
+prepend 94
+prepend 67
+prepend 47
+
+get_first
+set_at 49 8
+
+insert 62 3
+remove_at 0
+insert 39 7
+set_at 38 6
+insert 81 8
+insert 13 6
+insert 36 1
+remove_at 2
+prepend 73
+get_last
+
+remove_at 7
+get_at 1
+insert 83 9
+get_at 10
+insert 74 3
+get_at 15
+insert 70 1
+set_at 65 11
+remove_at 0
+append 20
+get_first
+remove_at 2
+get_at 12
+get_first
+get_last
+
+set_at 14 8
+prepend 45
+insert 59 13
+set_at 68 16
+set_at 71 16
+insert 68 8
+append 97
+set_at 32 6
+remove_at 8
+remove_at 0
+remove_at 5
+remove_at 7
+set_at 45 13
+set_at 36 3
+append 21
+insert 44 9
+prepend 58
+clear
+insert 14 0
+get_at 3
+append 75
+get_first
+get_last
+set_at 56 2
+
+remove_at 4
+clear
+get_first
+get_at 0
+set_at 15 1
+remove_at 1
+get_last
+prepend 63
+get_first
+
+
+
+
+new int
+append 91
+prepend 13
+remove_at -1
+append 57
+insert 99 0
+remove_at 3
+prepend 50
+get_at 0
+get_last
+set_at 80 0
+set_at 73 -2
+insert 55 3
+prepend 42
+insert 76 7
+prepend 69
+set_at 17 1
+remove_at 9
+insert 28 8
+prepend 14
+get_at 11
+get_last
+remove_at 10
+get_first
+get_at 2
+get_at 7
+set_at 21 1
+set_at 47 8
+get_at 3
+remove_at 3
+set_at 13 8
+remove_at 6
+get_at 1
+get_last
+get_at 9
+get_last
+get_at -2
+get_at 2
+insert 42 5
+set_at 64 3
+insert 93 8
+set_at 74 6
+set_at 31 11
+get_last
+append 60
+prepend 10
+remove_at 5
+insert 66 7
+get_at 8
+get_first
+insert 94 11
+get_at 6
+get_last
+get_first
+insert 21 1
+set_at 13 11
+get_last
+insert 34 7
+insert 28 14
+remove_at -2
+get_at 6
+prepend 70
+get_last
+get_at 17
+append 78
+clear
+get_last
+get_at -2
+get_at -1
+get_last
+get_first
+get_first
+get_first
+prepend 99
+get_at 1
+get_last
+append 56
+set_at 35 -2
+append 44
+set_at 51 3
+get_at -1
+insert 99 -1
+set_at 28 4
+append 54
+prepend 26
+insert 17 10
+set_at 31 -1
+prepend 73
+insert 31 3
+set_at 26 3
+append 55
+get_at 5
+prepend 37
+insert 31 7
+get_at 3
+set_at 56 0
+get_at 14
+prepend 36
+get_at 6
+insert 64 10
+remove_at 18
+append 24
+remove_at 9
+get_first
+append 74
+append 79
+append 23
+insert 23 18
+remove_at 7
+remove_at 7
+insert 48 1
+set_at 64 13
+get_last
+get_last
+get_last
+prepend 58
+append 94
+get_last
+prepend 35
+prepend 71
+remove_at 8
+insert 47 16
+set_at 83 9
+get_at -1
+set_at 69 9
+get_first
+insert 54 14
+get_first
+insert 92 5
+remove_at 11
+prepend 70
+set_at 44 16
+remove_at 26
+insert 65 20
+set_at 29 0
+append 82
+get_at 18
+set_at 50 -2
+set_at 19 2
+get_first
+set_at 28 13
+get_last
+set_at 89 2
+get_last
+get_last
+get_first
+get_last
+insert 62 15
+get_last
+set_at 69 7
+set_at 54 4
+prepend 25
+set_at 90 11
+get_first
+get_first
+prepend 47
+get_first
+append 15
+prepend 47
+append 43
+append 82
+prepend 96
+get_at 33
+set_at 27 0
+append 91
+append 51
+insert 62 3
+set_at 43 16
+prepend 11
+get_first
+insert 85 28
+insert 36 30
+prepend 82
+get_first
+get_last
+set_at 71 9
+set_at 24 3
+remove_at 24
+get_at 19
+insert 96 -2
+get_at 42
+get_at 33
+get_last
+remove_at 27
+insert 36 16
+get_at 26
+insert 53 8
+get_at 43
+prepend 52
+insert 28 2
+prepend 60
+remove_at 38
+get_first
+get_last
+clear
+
+
+
+
+new int
+insert_ordered 15
+insert_ordered 25
+insert_ordered 13
+insert_ordered 11
+insert_ordered 13
+insert_ordered 13
+insert_ordered 10
+insert_ordered 16
+insert_ordered 11
+insert_ordered 27
+insert_ordered 13
+insert_ordered 11
+insert_ordered 28
+insert_ordered 12
+insert_ordered 28
+insert_ordered 13
+insert_ordered 29
+insert_ordered 13
+insert_ordered 13
+insert_ordered 21
+
+new int
+insert_ordered 13
+insert_ordered 30
+insert_ordered 27
+insert_ordered 20
+insert_ordered 19
+insert_ordered 19
+insert_ordered 12
+insert_ordered 25
+insert_ordered 20
+insert_ordered 25
+insert_ordered 23
+insert_ordered 18
+insert_ordered 13
+insert_ordered 12
+insert_ordered 11
+insert_ordered 21
+insert_ordered 14
+insert_ordered 10
+insert_ordered 11
+insert_ordered 29
+clear
+insert 47 0
+insert 83 1
+insert 64 3
+insert 91 3
+insert 23 0
+insert 81 3
+insert 42 4
+insert 49 0
+insert 42 3
+insert 56 6
+insert 20 12
+insert 86 4
+insert 49 9
+insert 58 15
+insert 73 3
+insert 20 14
+insert 12 11
+insert 99 5
+insert 26 20
+insert 72 16
+
+clear
+insert_ordered 56
+insert_ordered 20
+insert_ordered 84
+insert_ordered 49
+insert_ordered 58
+insert_ordered 56
+append 32
+insert_ordered 21
+
+clear
+insert_ordered 56
+insert_ordered 20
+insert_ordered 84
+insert_ordered 49
+insert_ordered 58
+insert_ordered 56
+insert 86 4
+insert_ordered 21
+
+
+clear
+insert 57 0
+insert 10 3
+insert 31 4
+insert 82 1
+insert 19 3
+insert 33 3
+insert 86 4
+insert 87 0
+insert 40 1
+insert 64 2
+insert 17 0
+insert 74 11
+insert 14 14
+insert 22 14
+insert 72 2
+insert 81 16
+insert 33 11
+insert 86 17
+insert 27 11
+insert 41 1
+insert_ordered 24
+
+
+insert 56 1
+insert 90 1
+insert 99 0
+insert 97 0
+insert 99 0
+insert 26 1
+insert 70 4
+insert 74 9
+insert 95 7
+insert 62 11
+insert 78 8
+insert 82 8
+insert 41 14
+insert 76 3
+insert 96 10
+insert 56 8
+insert 69 14
+insert 50 2
+insert 96 3
+insert 27 3
+insert_ordered 16
+
+
+
+new int
+prepend 23
+prepend 23
+prepend 86
+prepend 26
+prepend 73
+prepend 38
+prepend 96
+prepend 82
+prepend 95
+prepend 91
+prepend 16
+prepend 29
+prepend 21
+prepend 44
+prepend 33
+prepend 76
+prepend 13
+prepend 39
+prepend 10
+prepend 43
+prepend 78
+prepend 65
+prepend 74
+prepend 34
+prepend 85
+prepend 52
+prepend 83
+prepend 34
+prepend 93
+prepend 41
+prepend 28
+prepend 44
+find 22
+find 11
+find 21
+find 21
+find 23
+find 14
+find 27
+find 29
+find 15
+find 19
+remove_value 10
+remove_value 22
+remove_value 24
+remove_value 18
+remove_value 29
+remove_value 20
+remove_value 29
+remove_value 12
+remove_value 21
+remove_value 22
+clear
+insert_ordered 29
+insert_ordered 18
+insert_ordered 28
+insert_ordered 13
+insert_ordered 22
+insert_ordered 29
+insert_ordered 28
+insert_ordered 14
+insert_ordered 13
+insert_ordered 10
+insert_ordered 19
+insert_ordered 18
+insert_ordered 24
+insert_ordered 24
+insert_ordered 21
+insert_ordered 23
+insert_ordered 22
+insert_ordered 21
+insert_ordered 12
+insert_ordered 30
+insert_ordered 29
+insert_ordered 23
+insert_ordered 18
+insert_ordered 11
+insert_ordered 27
+insert_ordered 16
+insert_ordered 28
+insert_ordered 13
+insert_ordered 15
+insert_ordered 15
+insert_ordered 29
+insert_ordered 25
+find 13
+find 25
+find 26
+find 22
+find 25
+find 16
+find 24
+find 13
+find 30
+find 28
+remove_value 21
+remove_value 26
+remove_value 23
+remove_value 21
+remove_value 10
+remove_value 28
+remove_value 10
+remove_value 26
+remove_value 24
+remove_value 28
+insert 11 1
+insert 33 11
+insert 73 20
+insert 84 9
+insert 84 28
+insert 49 10
+insert 77 13
+insert 96 29
+insert 10 21
+insert 66 13
+insert 69 12
+insert 79 13
+insert 17 2
+insert 42 22
+insert 14 32
+insert 17 18
+insert 37 40
+insert 45 28
+insert 47 26
+insert 82 8
+insert 13 42
+insert 62 15
+insert 30 31
+insert 31 39
+insert 69 33
+insert 42 5
+insert 36 36
+insert 56 6
+insert 87 27
+insert 63 16
+insert 93 39
+insert 70 48
+find 22
+find 17
+find 11
+find 15
+find 28
+find 26
+find 25
+find 26
+find 24
+find 25
+remove_value 29
+remove_value 23
+remove_value 24
+remove_value 23
+remove_value 19
+remove_value 14
+remove_value 26
+remove_value 22
+remove_value 12
+remove_value 23
