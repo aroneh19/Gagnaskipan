@@ -1,0 +1,11 @@
+5 7 1 9 2 4 
+SLL_Node
+
+4 2 9 1 7 5
+ArrayList
+
+5 0 7 0 1 0 9 0 2 0 4
+SLL_Node
+
+4 0 2 0 9 0 1 0 7 0 5
+ArrayList
